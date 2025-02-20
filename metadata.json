@@ -1,0 +1,10 @@
+{
+    "author": "Mohammadjafar Nanakar",
+    "email": "m.jafar@nanakar.com",
+    "website": "https://www.nanakar.com",
+    "version": "1.0",
+    "releaseDate": "2025-02-20",
+    "license": "MIT",
+    "compatible": "3.0",
+    "notes": "This plugin sends notifications to Telegram when a new page is created or edited."
+}
