@@ -1,0 +1,6 @@
+{
+    "plugin-data": {
+        "name": "Bludit to Telegram",
+        "description": "Send notifications to a Telegram channel when a page is created or modified."
+    }
+}
